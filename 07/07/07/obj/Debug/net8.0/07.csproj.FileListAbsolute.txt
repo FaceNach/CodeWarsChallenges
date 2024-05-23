@@ -1,0 +1,14 @@
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\bin\Debug\net8.0\07.exe
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\bin\Debug\net8.0\07.deps.json
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\bin\Debug\net8.0\07.runtimeconfig.json
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\bin\Debug\net8.0\07.dll
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\bin\Debug\net8.0\07.pdb
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\obj\Debug\net8.0\07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\obj\Debug\net8.0\07.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\obj\Debug\net8.0\07.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\obj\Debug\net8.0\07.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\obj\Debug\net8.0\07.dll
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\obj\Debug\net8.0\refint\07.dll
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\obj\Debug\net8.0\07.pdb
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\obj\Debug\net8.0\07.genruntimeconfig.cache
+C:\Users\ignac\OneDrive\Escritorio\Todo\Cursos\CodeWars\07\07\07\obj\Debug\net8.0\ref\07.dll
